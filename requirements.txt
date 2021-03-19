@@ -6,7 +6,7 @@ django-crispy-forms==1.9.1
 dnspython==1.16.0
 email-validator==1.0.5
 idna==2.9
-Pillow==7.1.1
+Pillow==8.1.1
 pipenv==2018.11.26
 python-dateutil==2.8.1
 pytz==2019.3
